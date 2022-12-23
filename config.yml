@@ -5,8 +5,8 @@ theme: "PaperMod"
 
 params:
   homeInfoParams:
-    Title: Sup bruh 😎
-    Content: This is something shows in your homepage.
+    Title: 随机脑噪音
+    Content: 策马扬鞭，与时俱进。行道迟迟，载渴载饥。
 
   socialIcons: # optional
     - name: "github"
@@ -15,13 +15,17 @@ params:
     #   url: "https://www.youtube.com/channel/XXX"
     - name: "twitter"
       url: "https://twitter.com/XXX"
+    - name: "cv"
+      url: "https://twitter.com/XXX"
+    - name: "blog"
+      url: "https://twitter.com/XXX"
     # - name: "kofi"
     #   url: "https://buymeacoffee.com/XXX"
     # - name: "rss"
     #   url: "https://XXX.github.io/index.xml"
   ShowReadingTime: true
-  author: "Linus Torvalds"
-  contact: "LinusT@example.com"
+  author: "Karl Zhang"
+  contact: "yindingzhang@gmail.com"
   feedlinks: true
   copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
   mobileMenu: true
@@ -53,4 +57,8 @@ menu:
     - identifier: archive
       name: Archive
       url: /archives/
+      weight: 20
+     - identifier: aboutme
+      name: About
+      url: "https://karlz97.github.io/"
       weight: 20
