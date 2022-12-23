@@ -1,6 +1,6 @@
 baseURL: https://karlz97.github.io/cnblog
 languageCode: en-us
-title: Linus Torvalds
+title: 随机脑噪音
 theme: "PaperMod"
 
 params:
@@ -16,9 +16,9 @@ params:
     - name: "twitter"
       url: "https://twitter.com/XXX"
     - name: "cv"
-      url: "https://twitter.com/XXX"
-    - name: "blog"
-      url: "https://twitter.com/XXX"
+      url: "https://karlz97.github.io/"
+#     - name: "linkedin"
+#       url: "https://www.linkedin.com/in/yindingzhang97/"
     # - name: "kofi"
     #   url: "https://buymeacoffee.com/XXX"
     # - name: "rss"
@@ -58,7 +58,7 @@ menu:
       name: Archive
       url: /archives/
       weight: 20
-    - identifier: aboutme
-      name: About
-      url: "https://karlz97.github.io/"
-      weight: 20
+#     - identifier: aboutme
+#       name: About
+#       url: "https://karlz97.github.io/"
+#       weight: 20
