@@ -1,5 +1,5 @@
 baseURL: https://karlz97.github.io/cnblog
-languageCode: en-us
+languageCode: zh-cn
 title: 随机脑噪音
 theme: "PaperMod"
 
@@ -42,20 +42,20 @@ outputs:
 
 menu:
   main:
-    - identifier: categories
+    - identifier: 类别
       name: Categories
       url: /categories/
       weight: 10
     - identifier: tags
-      name: Tags
+      name: 标签
       url: /tags/
       weight: 20
     - identifier: search
-      name: Search
+      name: 搜索
       url: /search/
       weight: 20
     - identifier: archive
-      name: Archive
+      name: 存档
       url: /archives/
       weight: 20
 #     - identifier: aboutme
